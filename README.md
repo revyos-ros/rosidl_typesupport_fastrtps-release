@@ -1,3 +1,29 @@
+## rosidl_typesupport_fastrtps (jazzy) - 3.6.0-3
+
+The packages in the `rosidl_typesupport_fastrtps` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rosidl_typesupport_fastrtps --override-release-repository-push-url git@github.com:revyos-ros/rosidl_typesupport_fastrtps-release.git` on `Tue, 11 Jun 2024 14:56:37 -0000`
+
+These packages were released:
+- `fastrtps_cmake_module`
+- `rosidl_typesupport_fastrtps_c`
+- `rosidl_typesupport_fastrtps_cpp`
+
+Version of package(s) in repository `rosidl_typesupport_fastrtps`:
+
+- upstream repository: https://github.com/ros2/rosidl_typesupport_fastrtps.git
+- release repository: https://github.com/revyos-ros/rosidl_typesupport_fastrtps-release.git
+- rosdistro version: `3.6.0-2`
+- old version: `3.6.0-2`
+- new version: `3.6.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_typesupport_fastrtps (rolling) - 3.7.0-1
 
 The packages in the `rosidl_typesupport_fastrtps` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rosidl_typesupport_fastrtps --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 20:18:25 -0000`
