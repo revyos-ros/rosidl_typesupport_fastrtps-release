@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/rosidl_typesupport_fastrtps-release
+release_repo_url: git@github.com:revyos-ros/rosidl_typesupport_fastrtps-release.git
 tracks:
   crystal:
     actions:
