@@ -2,9 +2,6 @@
 Changelog for package rosidl_typesupport_fastrtps_c
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.7.0 (2024-04-26)
-------------------
-
 3.6.0 (2024-04-16)
 ------------------
 * Adding interfaces to support `@key` annotation (`#116 <https://github.com/ros2/rosidl_typesupport_fastrtps/issues/116>`_)
