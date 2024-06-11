@@ -197,7 +197,7 @@ tracks:
     last_version: 3.6.0
     name: rosidl_typesupport_fastrtps
     patches: null
-    release_inc: '2'
+    release_inc: '3'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: jazzy
